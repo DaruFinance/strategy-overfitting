@@ -103,6 +103,8 @@ variance decomposition attributes 18.6% of pooled OOS-Sharpe variance to
 V_param and 16.8% to between-strategy means; ~60% remains as residual /
 interaction.
 
+![Per-asset D1−D10 lift](figures/fig_per_asset_lift.png)
+
 Per-asset breakdown (sorted by D1−D10 lift):
 
 | Asset | live profit % | D1 % | D10 % | D1−D10 (pp) |
