@@ -1,0 +1,123 @@
+/home/daru/.local/lib/python3.10/site-packages/matplotlib/projections/__init__.py:63: UserWarning: Unable to import Axes3D. This may be due to multiple versions of Matplotlib being installed (e.g. as a system package and as a pip package). As a result, the 3D projection is not available.
+  warnings.warn("Unable to import Axes3D. This may be due to multiple versions of "
+[data] streaming 30 assets from /mnt/d/strategies_parquet/strategies
+[load_metrics] kept 6,315,813/9,744,060 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [1/30] AAVE_30m_17W: 552,676 OOS rows, live n=30,548, t=25.0s
+[load_metrics] kept 2,280,229/3,439,080 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [2/30] ALGO_30m_6W_1MetaW: 200,267 OOS rows, live n=31,857, t=14.0s
+[load_metrics] kept 4,579,544/6,878,160 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [3/30] APE_30m_12W: 404,612 OOS rows, live n=32,729, t=20.2s
+[load_metrics] kept 2,147,129/3,245,160 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [4/30] APT_30m_6W_1MetaW: 188,916 OOS rows, live n=29,676, t=14.0s
+[load_metrics] kept 2,295,192/3,439,080 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [5/30] ARB_30m_6W_1MetaW: 204,238 OOS rows, live n=32,680, t=14.8s
+[load_metrics] kept 2,245,398/3,439,080 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [6/30] ATOM_30m_6W_1MetaW: 196,043 OOS rows, live n=31,178, t=14.7s
+[load_metrics] kept 3,724,597/5,158,620 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [7/30] AUDUSD_1h_forex: 342,004 OOS rows, live n=35,523, t=17.2s
+[load_metrics] kept 6,341,247/9,744,060 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [8/30] AVAX_30m_17W: 557,745 OOS rows, live n=31,458, t=24.5s
+[load_metrics] kept 7,563,315/11,463,600 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [9/30] BCH_30m_20W: 663,537 OOS rows, live n=30,491, t=28.2s
+[load_metrics] kept 7,540,832/11,430,000 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [10/30] BNB_15m_30W: 659,932 OOS rows, live n=20,341, t=27.9s
+[load_metrics] kept 6,122,986/9,127,620 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [11/30] BTC_30m_27W: 538,210 OOS rows, live n=18,088, t=24.7s
+[load_metrics] kept 5,226,033/7,703,010 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [12/30] DOGE_30m_21W: 465,735 OOS rows, live n=21,374, t=23.0s
+[load_metrics] kept 2,248,754/3,439,080 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [13/30] DOT_30m_6W_1MetaW: 196,400 OOS rows, live n=31,003, t=16.1s
+[load_metrics] kept 2,273,560/3,438,060 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [14/30] ETC_30m_6W_1MetaW: 200,543 OOS rows, live n=31,888, t=14.7s
+[load_metrics] kept 10,524,638/15,806,000 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [15/30] ETH_30m_28W: 929,074 OOS rows, live n=31,181, t=36.6s
+[load_metrics] kept 2,268,622/3,439,080 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [16/30] HBAR_30m_6W_1MetaW: 198,579 OOS rows, live n=31,587, t=15.1s
+[load_metrics] kept 2,204,402/3,438,360 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [17/30] ICP_30m_6W_1MetaW: 192,080 OOS rows, live n=29,924, t=14.0s
+[load_metrics] kept 8,726,493/13,183,140 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [18/30] LINK_30M_23W_new: 772,903 OOS rows, live n=32,369, t=32.4s
+[load_metrics] kept 10,189,197/15,381,360 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [19/30] LTC_30m_27W: 893,621 OOS rows, live n=30,597, t=35.0s
+[load_metrics] kept 6,362,615/9,744,060 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [20/30] NEAR_30m_17W: 556,839 OOS rows, live n=30,362, t=24.3s
+[load_metrics] kept 5,798,638/8,597,700 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [21/30] SHIB_30m_15W: 513,820 OOS rows, live n=32,428, t=21.9s
+[load_metrics] kept 1,733,693/2,674,840 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [22/30] SOL_1h_7W: 153,073 OOS rows, live n=20,261, t=13.0s
+[load_metrics] kept 2,265,803/3,439,080 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [23/30] SUI_30m_6W_1MetaW: 199,734 OOS rows, live n=31,161, t=14.2s
+[load_metrics] kept 9,712,812/14,329,500 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [24/30] TRX_30m_25W: 859,054 OOS rows, live n=31,306, t=32.2s
+[load_metrics] kept 6,531,225/9,744,060 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [25/30] UNI_30M_17W_new: 580,489 OOS rows, live n=33,420, t=24.4s
+[load_metrics] kept 2,905,207/4,012,260 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [26/30] USDCAD_1h_forex: 264,607 OOS rows, live n=34,724, t=15.0s
+[load_metrics] kept 3,712,877/5,158,620 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [27/30] USDCHF_1h_forex: 339,993 OOS rows, live n=36,273, t=16.4s
+[load_metrics] kept 2,306,310/3,439,080 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [28/30] XLM_30m_6W_1MetaW: 202,327 OOS rows, live n=32,160, t=14.1s
+[load_metrics] kept 9,873,744/14,329,500 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [29/30] XRP_30M_25W_new: 881,964 OOS rows, live n=33,381, t=32.2s
+[load_metrics] kept 8,170,777/12,609,960 rows after n_trades>=20 and sharpe winsorised to [-5.0, +5.0]
+  [30/30] ZEC_30m_22W: 712,761 OOS rows, live n=29,129, t=29.4s
+
+[data] pooled OOS Sharpe variance decomposition (n=13,621,776):
+  total                     1.3049
+  v_param_avg               0.2306
+  v_strategy_main           0.2940
+  v_window_main             0.0248
+  v_finite_avg              0.0403
+  residual                  0.7152
+  share_v_param             0.1767
+  share_v_strategy          0.2253
+  share_v_window            0.0190
+  share_v_finite            0.0309
+  share_residual            0.5481
+[data] mean IS->OOS degradation: 0.925
+[data] live-proxy strategies: 909,097, profitable=10.5%
+[data] pooled live-proxy profitability by V_param decile:
+  D 1 13.0%
+  D 2 11.9%
+  D 3 11.2%
+  D 4 11.0%
+  D 5 10.6%
+  D 6 10.4%
+  D 7 10.1%
+  D 8 9.6%
+  D 9 8.9%
+  D10 8.0%
+[data] per-asset D1 vs D10 lift:
+             asset     n  live_profit_pct    D1_pct    D5_pct   D10_pct  D1_minus_D10_pp
+       ETH_30m_28W 31181         9.383920 15.068932  9.300834  2.661963        12.406970
+       ZEC_30m_22W 29129        15.681966 23.343632 13.667582 11.328527        12.015105
+   XRP_30M_25W_new 33381        14.088853 18.867925 14.679449  7.159976        11.707948
+ XLM_30m_6W_1MetaW 32160        19.440299 22.667910 19.558458 15.267413         7.400498
+      DOGE_30m_21W 21374        14.620567 17.960711 14.787085 11.365762         6.594949
+       LTC_30m_27W 30597         4.735758  7.614379  4.838182  1.339869         6.274510
+ ICP_30m_6W_1MetaW 29924         9.681192 13.164049  8.656417  8.286001         4.878049
+ APT_30m_6W_1MetaW 29676        10.035045 12.500000  9.770889  7.648248         4.851752
+  LINK_30M_23W_new 32369         6.212734  9.051591  5.315204  4.324992         4.726599
+   USDCAD_1h_forex 34724        12.072342 14.771091 11.578341 10.538439         4.232652
+       APE_30m_12W 32729        10.974976 13.198900 10.055012  9.074244         4.124656
+   USDCHF_1h_forex 36273        15.664544 18.577729 14.860766 14.525910         4.051819
+ALGO_30m_6W_1MetaW 31857        10.848479 13.182674 10.832025  9.165097         4.017577
+   UNI_30M_17W_new 33420        10.810892 11.909037 10.978163  7.899461         4.009575
+         SOL_1h_7W 20261        13.696264 16.033547 13.968411 12.142152         3.891395
+       BTC_30m_27W 18088         8.381247  9.950249  8.844666  6.080708         3.869541
+       BNB_15m_30W 20341         3.824787  5.159705  4.326450  1.917404         3.242301
+      AVAX_30m_17W 31458        11.580520 13.286713 11.605723 10.076287         3.210426
+       BCH_30m_20W 30491         6.562592  7.803279  6.461135  4.722860         3.080419
+ DOT_30m_6W_1MetaW 31003        14.008322 15.736859 13.290323 12.834569         2.902290
+      NEAR_30m_17W 30362         8.108820  9.581824  7.542819  7.672045         1.909779
+ SUI_30m_6W_1MetaW 31161        11.655595 13.025345 11.300161 11.232349         1.792996
+HBAR_30m_6W_1MetaW 31587        10.263716 10.667933  9.781576  8.958531         1.709402
+       TRX_30m_25W 31306         2.993036  4.406130  2.363462  3.098052         1.308079
+ ETC_30m_6W_1MetaW 31888        11.712870 11.853246 11.229611 10.724365         1.128881
+ ARB_30m_6W_1MetaW 32680         9.201346 10.526316  8.323133 10.403917         0.122399
+ATOM_30m_6W_1MetaW 31178        11.530566 12.347659 11.161001 12.379731        -0.032072
+      AAVE_30m_17W 30548         6.563441  7.659574  6.284779  7.986907        -0.327332
+      SHIB_30m_15W 32428         9.525719  9.435708  9.867407  9.929078        -0.493370
+   AUDUSD_1h_forex 35523         8.101793  7.458486  8.248874 10.188573        -2.730087
+
+results summary -> /home/daru/strategy-overfitting/decomposition.json

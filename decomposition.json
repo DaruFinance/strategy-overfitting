@@ -1,0 +1,108 @@
+{
+  "mode": "data",
+  "per_asset": [
+    {
+      "asset": "ETH_30m_28W",
+      "n_oos_rows": 929074,
+      "mean_oos_sharpe": -0.5526377769693264,
+      "v_param_avg": 0.25100384187083646,
+      "live_n": 31181,
+      "live_profit_pct": 9.383919694685867,
+      "elapsed_s": 59.8
+    },
+    {
+      "asset": "BTC_30m_27W",
+      "n_oos_rows": 538210,
+      "mean_oos_sharpe": -0.6960255476486872,
+      "v_param_avg": 0.24293224445213446,
+      "live_n": 18088,
+      "live_profit_pct": 8.3812472357364,
+      "elapsed_s": 25.8
+    },
+    {
+      "asset": "LTC_30m_27W",
+      "n_oos_rows": 893621,
+      "mean_oos_sharpe": -0.7614875209960374,
+      "v_param_avg": 0.28569340094355816,
+      "live_n": 30597,
+      "live_profit_pct": 4.735758407687028,
+      "elapsed_s": 38.0
+    },
+    {
+      "asset": "TRX_30m_25W",
+      "n_oos_rows": 859054,
+      "mean_oos_sharpe": -0.5356995020103509,
+      "v_param_avg": 0.19188815847293134,
+      "live_n": 31306,
+      "live_profit_pct": 2.9930364786302945,
+      "elapsed_s": 35.8
+    },
+    {
+      "asset": "XRP_30M_25W_new",
+      "n_oos_rows": 881964,
+      "mean_oos_sharpe": -0.5534267725213274,
+      "v_param_avg": 0.25326546515535536,
+      "live_n": 33381,
+      "live_profit_pct": 14.088852940295377,
+      "elapsed_s": 36.0
+    },
+    {
+      "asset": "LINK_30M_23W_new",
+      "n_oos_rows": 772903,
+      "mean_oos_sharpe": -0.5109557214812209,
+      "v_param_avg": 0.265738617053247,
+      "live_n": 32369,
+      "live_profit_pct": 6.212734406376471,
+      "elapsed_s": 34.1
+    },
+    {
+      "asset": "ZEC_30m_22W",
+      "n_oos_rows": 712761,
+      "mean_oos_sharpe": -0.5147607122162969,
+      "v_param_avg": 0.21833804786975497,
+      "live_n": 29129,
+      "live_profit_pct": 15.681966425211987,
+      "elapsed_s": 31.7
+    },
+    {
+      "asset": "DOGE_30m_21W",
+      "n_oos_rows": 465735,
+      "mean_oos_sharpe": -0.532886791845148,
+      "v_param_avg": 0.30352354602545795,
+      "live_n": 21374,
+      "live_profit_pct": 14.620567044072239,
+      "elapsed_s": 23.8
+    },
+    {
+      "asset": "BCH_30m_20W",
+      "n_oos_rows": 663537,
+      "mean_oos_sharpe": -0.7539626275550573,
+      "v_param_avg": 0.27750192662617157,
+      "live_n": 30491,
+      "live_profit_pct": 6.562592240333213,
+      "elapsed_s": 29.7
+    },
+    {
+      "asset": "AVAX_30m_17W",
+      "n_oos_rows": 557745,
+      "mean_oos_sharpe": -0.4191874960779568,
+      "v_param_avg": 0.20006489879201073,
+      "live_n": 31458,
+      "live_profit_pct": 11.580520058490686,
+      "elapsed_s": 26.3
+    }
+  ],
+  "decomposition": {
+    "total": 1.3330777892210142,
+    "v_param_avg": 0.24820006605984635,
+    "v_strategy_main": 0.22339526823760822,
+    "v_window_main": 0.015370297215389211,
+    "v_finite_avg": 0.04116730195597951,
+    "residual": 0.8049448557521909,
+    "share_v_param": 0.18618573354588888,
+    "share_v_strategy": 0.1675785689656937,
+    "share_v_window": 0.011529932716357735,
+    "share_v_finite": 0.03088139513601504,
+    "share_residual": 0.6038243696360447
+  }
+}

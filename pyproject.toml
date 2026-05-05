@@ -1,0 +1,19 @@
+[project]
+name = "strategy-overfitting"
+version = "0.1.0"
+description = "Empirical decomposition of IS->OOS Sharpe degradation: parameter sensitivity vs regime shift vs finite-sample noise."
+authors = [{ name = "Daniel Vieira Gatto" }]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.0",
+  "scipy>=1.11",
+  "matplotlib>=3.8",
+  "pyarrow>=14.0",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
