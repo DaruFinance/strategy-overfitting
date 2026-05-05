@@ -82,6 +82,8 @@ it a candidate predictor of out-of-sample profitability.
 
 ## Headline result
 
+![Predictive validity by V_param decile](figures/fig_param_vs_live_data.png)
+
 On the **10 deepest-WFO assets** (≥17 walk-forward windows, all 30m crypto:
 ETH, BTC, LTC, TRX, XRP, LINK, ZEC, DOGE, BCH, AVAX) — 7.27M OOS rows,
 289,374 live-proxy candidates:
@@ -128,6 +130,14 @@ Three observations:
   9.4% baseline but D1 hits 15.1% (60% relative lift).
 
 Mean IS→OOS Sharpe degradation across this corpus: **0.84**.
+
+The variance decomposition pie:
+
+![OOS Sharpe variance decomposition](figures/fig_decomposition_data.png)
+
+By indicator family:
+
+![Decomposition by indicator family](figures/fig_decomp_by_family_data.png)
 
 (An earlier full-30-asset run including 6W MetaW assets and 3 forex pairs
 yielded a 5.0 pp spread — diluted by shorter-WFO crypto with weak signal
