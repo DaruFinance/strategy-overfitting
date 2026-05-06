@@ -3,7 +3,7 @@
 **Empirical variance decomposition of IS→OOS Sharpe degradation.**
 
 > Companion repository to the M-series of reference implementations on
-> [daniel-v-gatto.com](https://daniel-v-gatto.com). Inputs come from the
+> [daru.finance](https://daru.finance). Inputs come from the
 > [`quant-research-framework-rs`](https://github.com/DaruFinance/quant-research-framework-rs)
 > walk-forward backtester, processed through
 > [`strategy-generalization-analysis`](https://github.com/DaruFinance/strategy-generalization-analysis).
